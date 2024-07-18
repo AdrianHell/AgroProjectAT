@@ -1,0 +1,1 @@
+AgroProjectAT is an innovative agricultural management tool designed to streamline and optimize farm operations. It leverages modern technologies to provide farmers with the tools they need to efficiently manage their resources, monitor crop health, and enhance productivity.
